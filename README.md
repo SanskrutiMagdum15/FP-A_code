@@ -29,28 +29,28 @@ venv\Scripts\activate      # Windows
 Install dependencies:
 pip install -r requirements.txt
 
-Usage
+## Usage
 Run the Streamlit app:
 streamlit run app.py
 Then open http://localhost:8501 in your browser.
 
-Running Tests
+## Running Tests
 Tests are written using pytest:
 pytest tests/
 
-Example Questions
+## Example Questions
 "Revenue vs budget for June 2025"
 "Gross margin last 3 months"
 "Show me Opex breakdown for 2025"
 "What is the EBITDA in June?"
 "Cash runway months left"
 
-Tech Stack
+## Tech Stack
 Python 3.9+
 Streamlit (frontend + backend UI)
 Pandas (data processing)
 Matplotlib (charting)
 Pytest (testing)
 
-Author
+## Author
 Created by Sanskruti Magdum
